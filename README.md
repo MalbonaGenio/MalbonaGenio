@@ -17,9 +17,6 @@
 
 - ⚡ Fun fact **I was once a barista trainer, roaster, cupper and a few others things.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
