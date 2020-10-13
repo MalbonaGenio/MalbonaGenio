@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **mentoring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MalbonaGenio](https://github.com/MalbonaGenio)
+- 👨‍💻 All of my projects are available here on Github
 
 - 📝 I write sometimes at [https://dev.to/malbonagenio](https://dev.to/malbonagenio)
 
