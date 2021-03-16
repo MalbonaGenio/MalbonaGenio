@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **mentoring**
 
-- 📝 I write articles sometimes on [dev.to](https://dev.to/malbonagenio)
+<!--- - 📝 I write articles sometimes on [dev.to](https://dev.to/malbonagenio) --->
 
 - 💬 Ask me about **Coffee and tea brewing and processing**
 
