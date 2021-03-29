@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
 <h3 align="center">A junior frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on **leveling up my Javascript skills**
+- 🔭 I’m currently working on **leveling up my React skills**
 
 - 🌱 I’m currently enrolled in: **Frontend Developer course at Scrimba**
 
