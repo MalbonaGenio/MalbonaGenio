@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently enrolled in: **Frontend Developer course at Scrimba**
 
-- 👯 I’m looking to collaborate on **begginer friendly projects**
+- 👯 I’m looking to collaborate on **Junior developers mentoring**
 
 - 🤝 I’m looking for help with **mentoring**
 
