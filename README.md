@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
-<h3 align="center">A junior frontend developer from Spain</h3>
+<h3 align="center">A developer from Spain</h3>
 
 - 🔭 I’m currently working on **leveling up my SwiftUI skills**
 
