@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
-<h3 align="center">A developer from Spain</h3>
+<h3 align="center">A developer from Spain, working as a tea farmer in Japan 🇯🇵</h3>
 
-- 🔭 I’m currently working on **leveling up my SwiftUI skills**
+- 🔭 Currently working on **leveling up my SwiftUI skills**
+- 🌱 Currently enrolled in: **100 days of SwiftUI from Hacking With Swift**
+- 👯 Looking to collaborate on **Junior developers mentoring**
+- 🤝 Looking for help with **mentoring**
 
-- 🌱 I’m currently enrolled in: **100 days of SwiftUI from Hacking With Swift**
-
-- 👯 I’m looking to collaborate on **Junior developers mentoring**
-
-- 🤝 I’m looking for help with **mentoring**
-
-<!--- - 📝 I write articles sometimes on [dev.to](https://dev.to/malbonagenio) --->
+<!--- - 📝 I write articles about tea on [Tea Nursery](https://www.teanursery.com/) --->
 
 - 💬 Ask me about **Coffee and tea brewing and processing**
-
-- 📄 Know about my experiences in [LinkedIn](https://linkedin.com/in/pau-valverde-molina-27854b176/)
+- 📄 Know about my experiences in [LinkedIn](https://linkedin.com/in/pau-valverde-molina-27854b176/) or in my blog [Tea Nursery](https://www.teanursery.com/).
 
 - ⚡ Fun fact **I was once a barista trainer, roaster, cupper and a few others things.**
 
